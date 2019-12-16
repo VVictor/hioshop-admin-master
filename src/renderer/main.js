@@ -7,7 +7,7 @@ import 'element-ui/lib/theme-chalk/index.css'
 import App from './App'
 import router from './router'
 import store from './store'
-import api from './config/api'
+import api from './config/api '
 // vue-quill-edit
 import 'quill/dist/quill.core.css'
 import 'quill/dist/quill.snow.css'
